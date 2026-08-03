@@ -16,11 +16,11 @@ The service is implemented using Python and Flask.
 ---
 
 # Communication Contract:
+
+```
 ### Base URL: http://127.0.0.1:4000
 ### Endpoint: /search
 ### Method: POST
-```
- 
 ```
 ## How to Programmatically Request Data
 The Job Application Tracker sends a POST request to this microservice whenever the user wants to search for an application.
@@ -180,7 +180,7 @@ Response
 
 # UML Sequence Diagram
 
-
+![UML Diagram](https://github.com/HanLe-dev/microservice_jobsearch/blob/main/DML.png)
 
 ---
 
