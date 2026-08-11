@@ -1,4 +1,4 @@
-# Ho Gia Han Le
+# Ho Gia Han Le and Anton Choo
 # Microservice Job Search
 
 from flask import Flask, request, jsonify
